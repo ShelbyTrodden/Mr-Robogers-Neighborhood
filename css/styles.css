@@ -1,5 +1,4 @@
-
-}body {
+body {
   color: antiquewhite;
   background-color: rgb(16, 2, 70);
 }
@@ -14,9 +13,11 @@
 }
 
 h2 {
-  text-shadow: 3px 3px 3px black;
+  text-shadow: 5px 5px 5px black;
+  text-decoration: underline;
   text-align: center;
   margin-bottom: 25px;
+  
   
 }
 
