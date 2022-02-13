@@ -1,2 +1,26 @@
 
+}body {
+  color: antiquewhite;
+  background-color: rgb(16, 2, 70);
+}
+.class {
+  margin: 4px;
+  border: black;
+  padding: 6px;
+}
+
+.results {
+  display: none;
+}
+
+h2 {
+  text-shadow: 3px 3px 3px black;
+  text-align: center;
+  margin-bottom: 25px;
+  
+}
+
+.btn {
+  color: rgb(72, 2, 82);
+  text-align: center;
 }
